@@ -1,0 +1,11 @@
+---
+layout: post
+title: Blog template for friend, #3
+date: 2016-1-15 4:08
+tags:
+- blog template 
+---
+
+With the basic layout in place I can now start adding some graphical elements and colour to the template. The template will have pastel colours, with each article looking like a notepad page. I'll try to use css as much as I can. Brad S. Knutson has a [great example](http://bradsknutson.com/blog/css-notepad-paper/) of css notepad paper. I will use it for prototyping, or even keep it in production if it works on all browsers. 
+
+I'll be using textures from [Transparent textures](http://www.transparenttextures.com/), a very useful site with a colour picker that allows you to preview subtle patterns, [paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) for palette ideas. Paletton gives you colour suggestions on a colour of your choice and even makes a preview of a mock site. 
