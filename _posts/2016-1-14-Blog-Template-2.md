@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog template for friend, #2
+title: Blog template for friend, pt.2
 date: 2016-1-14 3:11
 tags:
 - blog template 
