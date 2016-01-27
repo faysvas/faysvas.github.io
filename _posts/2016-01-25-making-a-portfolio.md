@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 date: "2016-1-26 10:40"
 tags: 
   - coding practice
+title: "Where is my portfolio?"
 ---
 
 
