@@ -18,6 +18,9 @@ Typography is fascinating but all those small details are too much for somebody 
 - Layout: I'll give each `article` and each `article h2` some extra `margin-bottom`.  
 - Measure: The guide suggest 65 characters. I'm currently at 70 so I'll either just keep it or increase the font size a bit. 
 - Line Height: Changing the `line-height` to `1.5em` had a great impact. My paragraph text looks a lot more symmetrical now. 
-- Title: Using a smaller `line-height`
+- Title: Using a smaller `line-height` for titles is very important.(This step also reminded me to use a huge title as a test). 
+- Paragraph: I don't like indented paragraphs so I'll just keep to my normal ones but I like the subtitle styles so I'll copy them. 
+- Fonts: Aaah, the part that I feared. Endless testing of various fonts to find one or two that fit. I wanted something that looked handwritten but when I tested it in body copy it looks tedious, so I'll choose something simpler. 
+- Font size: 
 
 My favourite tool for vertical rythym is [basehold.it](http://basehold.it/)
