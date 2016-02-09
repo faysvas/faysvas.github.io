@@ -15,8 +15,9 @@ To take a break from the template's graphical elements I'm going to focus on the
 When I first started designing as part of developing, I never really payed attention to typography. I just chose a few fonts I liked and played around with sizes. Before reading articles on typography I thought that typography was just about font families and font sizes. Reading all the details fascinated me. 
 
 Typography is fascinating but all those small details are too much for somebody who doesn't focus only on design. Luckily, I found the perfect guide for my project, an [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/#section/1). I'll follow each step and work on the design for large screens (I'll work on smaller screens later). 
-- Layout: I'll give each article and each article header some extra margin-bottom.  
+- Layout: I'll give each `article` and each `article h2` some extra `margin-bottom`.  
 - Measure: The guide suggest 65 characters. I'm currently at 70 so I'll either just keep it or increase the font size a bit. 
-- Line Height
+- Line Height: Changing the `line-height` to `1.5em` had a great impact. My paragraph text looks a lot more symmetrical now. 
+- Title: Using a smaller `line-height`
 
 My favourite tool for vertical rythym is [basehold.it](http://basehold.it/)
