@@ -1,6 +1,7 @@
 ---
 published: false
 layout: post
+title: Blog template for friend, pt.5
 date: "2016-2-10 3:24"
 tags: 
   - blog template
