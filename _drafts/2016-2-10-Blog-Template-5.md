@@ -7,6 +7,7 @@ tags:
 ---
 
 
+
 ##Semantic HTML5  
 When I started making the template I dived straight into designing. Now I'll take a closer looks at the `html5` semantics.  
 
@@ -26,4 +27,4 @@ Fascinating as they are, all those details are still too much for somebody who d
 - Fonts: Aaah, the most dreadful part. Endless testing of various fonts to find one or two that fit. I wanted something that looked handwritten but when I tested it in body copy it looked tedious, so I chose a more "normal" `serif` font for paragraphs and a `sans-serif` font for headers. 
 - Font size: I set `18px` as my base size and increased header sizes by 1.5 using [Modular Scale](http://www.modularscale.com/). 
 
-I also want to ensure my design has consistent vertical rythym. My favourite tool for that is [basehold.it](http://basehold.it/). It helps you adjust the spacing and size of your page elements by overlaying your design with a grid, just by adding a line of code. 
+I also want to ensure my design has consistent vertical rythym. My favourite tool for that is [basehold.it](http://basehold.it/). It helps you adjust the spacing and size of your page elements by overlaying your design with a grid, just by adding a line of code.
