@@ -9,12 +9,12 @@ tags:
 
 
 
-##Semantic HTML5    
+## Semantic HTML5    
 When I started making the template I dived straight into designing. Now I'll take a closer looks at the `html5` semantics.  
 
 A blog without semantic `html5` markup is just a bunch of disorderly divs. Semantic markup helps you make some sense out of all that information and is especially important when making a blog template because it helps with refactoring and editing. Plus, it's just so much more pleasurable to read.  [Designing a blog with html5](http://html5doctor.com/designing-a-blog-with-html5/) has some nice tips on how to improve your markup. I'll keep the containers and rows as divs for now because I think it's better to keep a basic outer grid.  
 
-##Typography     
+## Typography     
 The other part I'm going to focus on today is the template's typography. Typography is one of those sneaky things you can easily overlook when doing a design. Good typography is subtle and makes a blog satisfying to read while bad typography will make you feel that something is slightly off, but you just can't pinpoint what.   
 
 When I first started designing (as a necessary part of developing), I never really payed attention to typography. I just chose a few fonts I liked and played around with sizes. I never grasped the impact of typography before delving deeper in the subject, and when I did I was fascinated by all the little details.    
