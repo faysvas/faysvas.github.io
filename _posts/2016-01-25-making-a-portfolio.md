@@ -21,5 +21,5 @@ Lately many sites have been offering premium courses that help you complete port
 
 They all look very promising(and I'll probably try one of them at some point). But a few days ago I was so excited to discover freeCodeCamp, an open source community with a free programming course. It includes basic exercises in html, css and javascript, and even more advanced algorithm exercises(*those really challenged me and I have to admit that I directly copied some answers so I could study them...*) that includes some basic web projects you can then show off on CodePen or github. I'm working on the first Front End project right now, a personal portfolio web page. 
 
-- [freeCodeCamp profile](http://www.freecodecamp.com/) 
+- [freeCodeCamp profile](http://www.freecodecamp.com/faysvas) 
 - [Codepen profile](http://codepen.io/faysvas/) (*I'm supposed to build the project here but I'll just upload it when I'm done*)
