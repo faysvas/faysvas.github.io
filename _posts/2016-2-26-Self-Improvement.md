@@ -6,6 +6,7 @@ date: "2016-2-26 5:28"
 tags: 
    - coding practice
    - resources   
+excerpt: My favourite language, my studying goals and how I got into competitive programming
 ---
 
 
