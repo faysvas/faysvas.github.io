@@ -10,7 +10,7 @@ tags:
 
 
 
-## Self Improvement 
+
 ### Programming
 I feel that it's time I levelled up. All these years I tried different languages but couldn't settle on one. I just learned enough of a language to complete whatever project I had at hand. But I always favoured one:   
 
