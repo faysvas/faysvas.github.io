@@ -1,12 +1,14 @@
 ---
 published: true
-title: "Self Improvement"
 layout: post
+title: "Self Improvement"
 date: "2016-2-26 5:28"
 tags: 
    - coding practice
-   -resources   
+   - resources   
 ---
+
+
 
 ## Self Improvement 
 ### Programming
@@ -33,7 +35,3 @@ I tried both [codefights](https://codefights.com), a platform better suited for 
 [Hackerrank](https://www.hackerrank.com) is another competitive coding platform that supports many more languages than the previous two (I even saw LOLCODE supported in an excercise!) and has problems split in domains.  
 
  Try them out and find your favourite!
-
-
-
- 

@@ -18,6 +18,7 @@ name: 'Golfo Vasiliou'
 author: 'Golfo Vasiliou'
 author_image: "https://avatars2.githubusercontent.com/u/11340303?v=3&s=460"
 
+
 paginate:	5
 
 url: "http://faysvas.github.io" # the base hostname & protocol for your site
@@ -27,6 +28,8 @@ twitter_handle: ''
 
 #fill in disqus shortname to use disqus
 disqus: faysvas
+
+google_analytics: UA-72072834-2
 
 # social icons and sharing options
 social:
