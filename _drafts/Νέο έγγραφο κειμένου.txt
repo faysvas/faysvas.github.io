@@ -1,0 +1,14 @@
+### Front End-Development
+Lately I've been trying to brand myself. I claim to be a full-stack developer but I lean more towards front-end. 
+The [Front-End Handbook](http://www.frontendhandbook.com/) gave me the best help. It contains almost every detail of front-end developing, helping you find your strength and weaknesses. Front-End development is so diverse and broad that you can rarely find two front-end developers that know the same things.  
+
+Front end development jobs are on the rise. 
+
+## FreeCodeCamp
+I've completed two frontend projects for freeCodeCamp, a [Portfolio](http://codepen.io/faysvas/pen/BjVdvN) page and a [Random Quote Machine](http://codepen.io/faysvas/pen/obJGMp). I'm not that satisfied with the portfolio design. I want to add a parallax effect on top like the example project. I used [Materialize.css](http://materializecss.com/) for the first time. At first glance it looks prettier and easier to use than bootstrap. It offers more styling choices out of the box and it's style generally looks like the style I tried to achieve with bootstrap. 
+
+The [Athens Free Code Camp](https://www.facebook.com/groups/free.code.camp.athens.greece) is very active. I've learned tons of stuff just by reviewing their projects (And having them review mine, there's nothing better than constructive feedback).
+
+I'm also a regular article writer for GFOSS now. I'll try to write and article every 15 days. I wrote an article about alternate block chains. It seems like a groundbreaking technology. 
+
+I've also made it a point to study and learn the basics of Angular because it seems this framework is everywhere nowadays. I feel like I'm missing out on a lot of functionality and unecessarily reinventing the wheel for everything I do.
