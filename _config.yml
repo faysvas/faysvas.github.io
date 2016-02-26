@@ -20,6 +20,8 @@ author_image: "https://avatars2.githubusercontent.com/u/11340303?v=3&s=460"
 
 paginate:	5
 
+google_analytics: UA-72072834-2
+
 url: "http://faysvas.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
