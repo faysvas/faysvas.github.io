@@ -6,11 +6,12 @@ date: "2016-2-26 5:28"
 tags: 
    - coding practice
    - resources   
+excerpt: My favourite language, my studying goals and how I got into competitive programming
 ---
 
 
 
-## Self Improvement 
+
 ### Programming
 I feel that it's time I levelled up. All these years I tried different languages but couldn't settle on one. I just learned enough of a language to complete whatever project I had at hand. But I always favoured one:   
 
