@@ -18,9 +18,8 @@ Here is a report of the FreeCodeCamp projects I've completed so far. I've set as
 * [Random Quote Machine](http://codepen.io/faysvas/pen/obJGMp). - I used [Materialize.css](http://materializecss.com/) for the first time. At first glance it looks prettier and easier to use than bootstrap. It offers more styling choices out of the box and it's style generally looks like the style I tried to achieve with bootstrap.
 * [Javascript Calculator](http://codepen.io/faysvas/pen/QyRoyB) - A tricky project. There were so many cases and it was easy for bugs to creep in. But that's ok because  the friendly people over at [Athens Free Code Camp](https://www.facebook.com/groups/free.code.camp.athens.greece) with their bug tracking skills came to the rescue. You can post a project and have feedback within a day(or even a few minutes sometimes!). I've learned tons of stuff just by reviewing their projects (And having them review mine).
 * [Wikipedia Viewer](http://codepen.io/faysvas/pen/wGvybB) - I made it a bit hastily, I have to imrpove the design. The wikipedia API is a bit of a pain to work with, but everything turned out fine. 
-* [Local Weather](http://codepen.io/faysvas/pen/VeJeYy) - I didn't have much inspiration so I went with a monochrome flat design for this one. 
-
-## GFOSS Articles  
+* [Local Weather](http://codepen.io/faysvas/pen/VeJeYy) - I didn't have much inspiration so I went with a monochrome flat design for this one.   
+## GFOSS Articles    
 I'm also a regular (greek) article writer for GFOSS now. I've commited to writing an article every 15 days. Here are the two articles I've written: 
 
 * [FreeCodeCamp Article](https://edu.ellak.gr/2016/02/04/dorean-mathimata-programmatismou-apo-to-freecodecamp/) 
