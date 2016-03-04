@@ -19,6 +19,7 @@ I feel that it's time I levelled up. All these years I tried different languages
 And now I've decided to focus (almost exclusively) on that. I've always thought of javascript as simplified java. Turns out it's not that simple though...Yes, it's very simple to manipulate a few dom elements with javascript, but it's exactly that simple syntax that can cause all sorts of problems if  you're not careful enough.  
 
 My goals are to learn:  
+
 * How to write unit tests (I had a first try editing a test for [greek-in-tech](https://github.com/tsevdos/greek-in-tech))
 * Javascript in depth (especially objects and modules)
 * One or two popular javascript frameworks
