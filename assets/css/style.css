@@ -914,6 +914,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 |----------------------------------------------------------------------------
 */
 .interests ul {
+	
   padding-left: 0px;
   background-color: #ffffff;
   overflow: hidden;
@@ -921,7 +922,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 .interests ul li {
   list-style-type: none;
-  display: inline;
+  display: inline-block;
   text-align: center;
 }
 .interests ul li .fa {
